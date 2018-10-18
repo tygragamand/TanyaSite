@@ -8,4 +8,13 @@ function test1() {
 	else if (mycolor == "blue") {
 		console.log("blue, my favourite color");
 	}
+	else if (mycolor == "yellow") {
+		console.log("yellow huh, sure");
+	}
+	else if (mycolor == "green") {
+		console.log("oh gosh, no...");
+	}
+	else {
+		console.log ("that's not nice, he doesn't have one");
+	}
 }
