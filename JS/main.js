@@ -24,7 +24,7 @@ function test2(){
 	var age = prompt("how old are you?");
 
 	if (age < 18){
-		alert("LEAVE THE WEBSITE, NOW. TIME FOR CHILDREN IS OVER. IT'S ADULT TIME");
+		alert("Click Alt + F4 to continue for the content");
 	}
 	else if (age > 18){
 		alert ("Did you come to have some fun? ;D");
