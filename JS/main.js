@@ -20,24 +20,19 @@ function test1() {
 }
 
 function test2(){
-	var age = prompt("how old are you?")
 	alert("I told you not to click on me! You don't listen! :/");
-
+	var age = prompt("how old are you?");
 
 	if (age < 18){
 		alert("LEAVE THE WEBSITE, NOW. TIME FOR CHILDREN IS OVER. IT'S ADULT TIME");
-
 	}
 	else if (age > 18){
 		alert ("Did you come to have some fun? ;D");
-
 	}
 	else if (age == 18){
 		alert ("I'm still older than you ;D");
-
 	}
 	else {
 		alert ("Not a valid age");
-
 	}
 }
